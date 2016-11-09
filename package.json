@@ -1,0 +1,22 @@
+{
+  "name": "oop",
+  "version": "1.0.0",
+  "description": "practice with object oriented programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "dependencies": {
+    "es6-module-loader": "^0.17.11",
+    "jquery": "^3.1.1",
+    "material-design-lite": "^1.2.1",
+    "systemjs": "^0.19.40",
+    "traceur": "0.0.111"
+  }
+}
